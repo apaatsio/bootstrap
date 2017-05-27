@@ -38,7 +38,7 @@
 //@import "badge";
 //@import "jumbotron";
 //@import "alert";
-//@import "progress";
+@import "progress";
 //@import "media";
 //@import "list-group";
 //@import "responsive-embed";
@@ -52,3 +52,4 @@
 
 // Utility classes
 //@import "utilities";
+@import "utilities/background"; // used for progress bar colors
